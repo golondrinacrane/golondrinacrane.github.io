@@ -1,0 +1,5 @@
+{
+  "algorithm": "Ed25519",
+  "payload": "eyJzY2hlbWEiOjEsInZlcnNpb24iOiJwYWNrLTE3OTQ4MjgwMzM1NzQiLCJzZXF1ZW5jZSI6MTc5NDgyODAzMzU3NCwiY2hhbm5lbCI6InN0YWJsZSIsIm1pbmVjcmFmdCI6IjEuMjEuMSIsImxvYWRlciI6eyJ0eXBlIjoiZmFicmljIiwidmVyc2lvbiI6IjAuMTYuMTAifSwiZmlsZXMiOltdfQ==",
+  "signature": "wGLiv3AXfWppSmy++5s7nqglIVC/KbuO7Mu5IkRXrW4EwK/kTWjARYjSHLJ3EWWCAqRe5ZnrsQy0bTbihm2BBQ=="
+}
